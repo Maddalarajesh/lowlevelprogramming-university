@@ -3,7 +3,7 @@ NOTICE1: Please do not copy the contents of this page to your blog. You can shar
 NOTICE2: Please notice that low-level programming is out of trend and currently there are not many companies hiring low-level developer. It is getting harder for me to find a job.
 If you haven't started a professional career yet, I would like to recommend you consider other fields either carefully.
 
-NOTICE3: If you want a quick start, go to "How to start?".
+NOTICE3: If you want a quick start, go to "How to start".
 
 * [Low-Level Programming University](#Low-Level-Programming-University)
   * [What is it?](#What-is-it)
